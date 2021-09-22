@@ -1,17 +1,3 @@
-import sys
-sys.path.append('C:\\git_practice')
-sys.path.append('C:\\Users\\ASUS\\Desktop\\rongda_digital\\workbench')
-sys.path.append('F:\\BaiduNetdiskDownload\\JetBrains PyCharm 2019\\JetBrains PyCharm 2019\\PyCharm 2019.1\\helpers\\pycharm_display')
-sys.path.append('C:\\Users\\ASUS\\Python\\Python38\\python38.zip')
-sys.path.append('C:\\Users\\ASUS\\Python\\Python38\\DLLs')
-sys.path.append('C:\\Users\\ASUS\\Python\\Python38\\lib')
-sys.path.append('C:\\Users\\ASUS\\Python\\Python38')
-sys.path.append('C:\\Users\\ASUS\\Python\\Python38\\lib\\site-packages')
-sys.path.append('C:\\Users\\ASUS\\Python\\Python38\\lib\\site-packages\\setuptools-39.1.0-py3.8.egg')
-sys.path.append('C:\\Users\\ASUS\\Python\\Python38\\lib\\site-packages\\win32')
-sys.path.append('C:\\Users\\ASUS\\Python\\Python38\\lib\\site-packages\\win32\\lib')
-sys.path.append('C:\\Users\\ASUS\\Python\\Python38\\lib\\site-packages\\Pythonwin')
-sys.path.append('F:\\BaiduNetdiskDownload\\JetBrains PyCharm 2019\\JetBrains PyCharm 2019\\PyCharm 2019.1\\helpers\\pycharm_matplotlib_backend')
 from selenium import webdriver
 print("Hello Git world!")
 print("Hello everybody.")
